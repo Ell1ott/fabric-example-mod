@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "pControl",
+  "id": "pcontrol",
   "version": "${version}",
 
   "name": "Player Control",
@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.player.control.pControl"
+      "net.player.control.pcontrol"
     ]
   },
   "mixins": [
